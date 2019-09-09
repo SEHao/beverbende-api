@@ -1,8 +1,8 @@
 {
   "name": "beverbende-api",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Home project for educational use.",
+  "author": "SEHao",
   "license": "MIT",
   "scripts": {
     "build": "rimraf dist && tsc -p tsconfig.build.json",
